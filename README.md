@@ -1,6 +1,6 @@
 # Employee Management System
 
-Spring Boot based REST API project to manage employee data using CRUD operations.
+Employee Management System is a Spring Boot based REST API project developed to manage employee records. It allows performing CRUD operations (Create, Read, Update, Delete) on employee data and uses Spring Data JPA with MySQL for database interaction.
 
 ## Tech Stack
 - Java
